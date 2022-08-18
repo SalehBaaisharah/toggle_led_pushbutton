@@ -3,7 +3,7 @@ With Arduino, we changed the LED's state in this project by using the push butto
 
 ## Requirements
 Using [Tinkerkad](www.tinkercad.com)
-*  Arduino board
+*  Arduino Uno R3 board
 * Solderless Breadboard
 * Pushbutton 
 * Wires
